@@ -1,4 +1,4 @@
-
+# to use this script you should instal PyPDF2 using this line : !pip install PyPDF2
 
 #Fonction To delete pages from pdfs  using pages to keep
 
